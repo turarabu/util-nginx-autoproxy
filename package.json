@@ -1,11 +1,14 @@
 {
   "name": "nginx-autoproxy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create/Remove nginx proxy config and allow/deny port for firewall",
   "main": "index.js",
+  "bin": {
+    "autoproxy": "index.js"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/turarabu/nginx-autoproxy"
+    "url": "https://github.com/turarabu/util-nginx-autoproxy"
   },
   "keywords": [
     "nginx",

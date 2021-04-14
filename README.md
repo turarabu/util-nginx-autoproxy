@@ -11,5 +11,10 @@ and allow or deny selected proxy port for firewall
 
 ### Install
 ```
-# npm install -g https://github.com/turarabu/nginx-autoproxy.git
+# npm install -g https://github.com/turarabu/util-nginx-autoproxy/tarball/main
+```
+
+### Usage
+```
+# autoproxy
 ```
